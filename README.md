@@ -17,3 +17,6 @@ Have fun and enjoy the game!
 File Structure
 blackjack.py: Contains the Python code for the Blackjack game.
 README.md: This file, providing instructions on how to play the game.
+
+Note
+This code doesn't handle input validation, so make sure to input 'y' or 'n' when prompted.
